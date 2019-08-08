@@ -1,0 +1,25 @@
+{
+  "name": "fun",
+  "version": "1.0.0",
+  "description": "node test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijerkan/funproject.git"
+  },
+  "author": "Ivan Jerkovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ijerkan/funproject/issues"
+  },
+  "homepage": "https://github.com/ijerkan/funproject#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
